@@ -1,0 +1,48 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "Labs_pomi"
+include ':app'
+include ':task3_BasicViews'
+include ':task4_LayoutFiles'
+include ':task5_Layouts'
+include ':task6_LayoutProp'
+include ':task7_ViewById'
+include ':task8_OnClickButtons'
+include ':Module name: task9_Listener'
+include ':task10_ActivityListener'
+include ':task11_ResValues'
+include ':task12_LogAndMess'
+include ':task12_LogAndMess'
+include ':task13_MenuSimple'
+include ':task14_MenuAdv'
+include ':task15_ApplicationRetailStore'
+include ':task16_context_menu'
+include ':task9_Listener'
+include ':task17_SubMenu'
+include ':task18_GroupMenu'
+include ':task19_ProgramMenu'
+include ':task20_PopupMenu'
+include ':task22_Message'
+include ':task23_SimpleAnimation'
+include ':task24_ObjectAnimator'
+include ':task25_LayoutAnimation'
+include ':task26_Animation'
+include ':task27_Navigation'
+include ':task29_NavigationIntent'
+include ':task30_ReadIntent'
+include ':task21_ApplicationRetailStore'
+include ':task31_Preferences'
+include ':task32_SimpleDB'
+include ':task34_SimpleDB2'
+include ':task35_Query'
+include ':task36_SQLiteInnerJoin'
+include ':task37_SQLiteTransaction'
+include ':task26_AnimationMovement'
+include ':task33_AppW4'
+include ':task38_db'

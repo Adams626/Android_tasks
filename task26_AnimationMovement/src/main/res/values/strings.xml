@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnimationMovement</string>
+    <string name="Slajd1">Kawa</string>
+    <string name="Slajd2">Herbata</string>
+    <string name="Slajd3">Woda</string>
+
+    <string name="Tytul">Witam! Aby kontunuować naciśnij przycisk</string>
+
+    <string name="ts1">napój sporządzany z palonych, a następnie zmielonych lub poddanych instantyzacji ziaren kawowca, zwykle podawany na gorąco. Pochodzi z Etiopii, w Europie pojawiła się około XVI wieku. Jedna z najpopularniejszych używek na świecie i główne źródło kofeiny.</string>
+    <string name="ts2"> napar przyrządzany z liści i pąków grupy roślin, nazywanych tą samą nazwą, należących do rodzaju kamelia (Camellia). Rośliny te są do siebie podobne, traktowane jako odrębne gatunki lub odmiany jednego gatunku – herbaty chińskiej (Camellia sinensis). Dawniej zaliczano je do rodzaju Thea, różnią się od innych kamelii zawartością substancji swoistych i kilkoma drobnymi cechami morfologicznymi </string>
+    <string name="ts3">związek chemiczny o wzorze H2O, występujący w warunkach standardowych w stanie ciekłym. W stanie gazowym wodę określa się mianem pary wodnej, a w stałym stanie skupienia – lodem. Słowo „woda” jako nazwa związku chemicznego może się odnosić do każdego stanu skupienia.</string>
+
+</resources>

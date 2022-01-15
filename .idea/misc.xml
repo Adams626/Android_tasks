@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/Module name/ task9_Listener/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task10_ActivityListener/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task11_ResValues/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task12_LogAndMess/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task13_MenuSimple/src/main/res/layout/activity_main.xml" value="0.11" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task14_MenuAdv/src/main/res/layout/activity_main.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task15_ApplicationRetailStore/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task15_ApplicationRetailStore/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task15_ApplicationRetailStore/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task16_context_menu/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task17_SubMenu/src/main/res/menu/main_menu.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task18_GroupMenu/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task18_GroupMenu/src/main/res/menu/main_menu.xml" value="0.165" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task18_GroupMenu/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task19_ProgramMenu/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task20_PopupMenu/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task20_PopupMenu/src/main/res/menu/main_menu.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task21_ApplicationRetailStore/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task21_ApplicationRetailStore/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task22_Message/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task23_SimpleAnimation/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task24_ObjectAnimator/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task25_LayoutAnimation/src/main/res/layout/activity_main.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_Animation/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_Animation/src/main/res/xml/clock.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_Animation/src/main/res/xml/hour_hand.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_Animation/src/main/res/xml/mountain.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_Animation/src/main/res/xml/sea.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_Animation/src/main/res/xml/ship.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_Animation/src/main/res/xml/sky.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_Animation/src/main/res/xml/sun.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_AnimationMovement/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_AnimationMovement/src/main/res/layout/activity_screen2.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_AnimationMovement/src/main/res/layout/activity_screen3.xml" value="0.2872340425531915" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_AnimationMovement/src/main/res/layout/activity_screen4.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task27_Navigation/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task27_Navigation/src/main/res/layout/activity_screen2.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task27_Navigation/src/main/res/layout/activity_screen3.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task27_Navigation/src/main/res/layout/activity_screen4.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task29_NavigationIntent/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task29_NavigationIntent/src/main/res/layout/iphone.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task29_NavigationIntent/src/main/res/layout/price.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task30_ReadIntent/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task30_ReadIntent/src/main/res/layout/details.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task31_Preferences/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task32_SimpleDB/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task33_AppW4/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task34_SimpleDB2/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task35_Query/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task36_SQLiteInnerJoin/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task38_db/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task3_BasicViews/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task4_LayoutFiles/src/main/res/layout-land/myscreen.xml" value="0.1697530864197531" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task4_LayoutFiles/src/main/res/layout-port/myscreen.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task4_LayoutFiles/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task4_LayoutFiles/src/main/res/layout/myscreen.xml" value="0.125" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task5_Layouts/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task5_Layouts/src/main/res/layout/rlayout.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task5_Layouts/src/main/res/layout/tlayout.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task6_LayoutProp/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task6_LayoutProp/src/main/res/layout/grlayout.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task6_LayoutProp/src/main/res/layout/marginlayout.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task7_ViewById/src/main/res/layout/activity_main.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task8_OnClickButtons/src/main/res/layout/activity_main.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task9_Listener/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task9_Listener/src/main/res/menu/example_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

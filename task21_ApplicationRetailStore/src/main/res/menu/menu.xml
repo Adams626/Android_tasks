@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_wódka"
+        android:title="Wódka">
+        <menu>
+            <group android:checkableBehavior="all">
+                <item android:id="@+id/cena1"
+                    android:title="Cena"/>
+                <item android:id="@+id/producent1"
+                    android:title="Producent"/>
+                <item android:id="@+id/objetosc1"
+                    android:title="Objętość"/>
+            </group>
+        </menu>
+        </item>
+    <item
+        android:id="@+id/action_wina"
+
+        android:title="Wina">
+        <menu>
+            <group android:checkableBehavior="all">
+                <item android:id="@+id/cena2"
+                    android:title="Cena"/>
+                <item android:id="@+id/producent2"
+                    android:title="Producent"/>
+                <item android:id="@+id/objetosc2"
+                    android:title="Objętość"/>
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_likier"
+        android:title="Likier">
+        <menu>
+            <group android:checkableBehavior="all">
+                <item android:id="@+id/cena3"
+                    android:title="Cena"/>
+                <item android:id="@+id/producent3"
+                    android:title="Producent"/>
+                <item android:id="@+id/objetosc3"
+                    android:title="Objętość"/>
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_whisky"
+
+        android:title="Whisky">
+        <menu>
+            <group android:checkableBehavior="all">
+                <item android:id="@+id/cena4"
+                    android:title="Cena"/>
+                <item android:id="@+id/producent4"
+                    android:title="Producent"/>
+                <item android:id="@+id/objetosc4"
+                    android:title="Objętość"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>

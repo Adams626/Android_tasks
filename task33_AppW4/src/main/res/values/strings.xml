@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppW4</string>
+    <string name="Menu">Menu</string>
+    <string name="Tatar">Tatar z wędzonego pstrąga z twarogiem na ciemnym chlebie</string>
+    <string name="kaczka">Kaczka na grzance z buraczkami marynowanymi</string>
+    <string name="ser">Ser wędzony regionalny griloowany z sosem z suszonych jabłek</string>
+    <string name="rosół">Rosół drobiowy z domowym makaronem</string>
+    <string name="barszcz">Barszcz czysty z kołdunami baranimi</string>
+    <string name="zupa">Zupa rybna z pomidorami</string>
+    <string name="ryz">Ryż</string>
+    <string name="kasza">Kasza gryczana</string>
+    <string name="opiekane">Opiekane ziemniaki</string>
+    <string name="dodaki">Dodatki</string>
+    <string name="zupy">Zupy</string>
+    <string name="Przystawki">Przystawki</string>
+</resources>
