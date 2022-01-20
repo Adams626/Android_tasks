@@ -42,7 +42,9 @@
             <option value="$PROJECT_DIR$/task36_SQLiteInnerJoin" />
             <option value="$PROJECT_DIR$/task37_SQLiteTransaction" />
             <option value="$PROJECT_DIR$/task38_db" />
+            <option value="$PROJECT_DIR$/task39_SQLiteOnUpgradeDB" />
             <option value="$PROJECT_DIR$/task3_BasicViews" />
+            <option value="$PROJECT_DIR$/task40_SimpleList" />
             <option value="$PROJECT_DIR$/task4_LayoutFiles" />
             <option value="$PROJECT_DIR$/task5_Layouts" />
             <option value="$PROJECT_DIR$/task6_LayoutProp" />

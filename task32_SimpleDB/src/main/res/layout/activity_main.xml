@@ -32,7 +32,9 @@
                 android:id="@+id/etName"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                tools:ignore="SpeakableTextPresentCheck">
+
                 <requestFocus></requestFocus>
             </EditText>
         </LinearLayout>
@@ -53,7 +55,8 @@
                 android:id="@+id/etSurname"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck">
 
                 <requestFocus></requestFocus>
             </EditText>
@@ -76,7 +79,8 @@
                 android:id="@+id/etEmail"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"></EditText>
+                android:layout_weight="1"
+                tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"></EditText>
         </LinearLayout>
 
         <LinearLayout
@@ -96,7 +100,47 @@
                 android:id="@+id/etMobile"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"></EditText>
+                android:layout_weight="1"
+                tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"></EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp">
+
+            <Button
+                android:id="@+id/btnSort"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:background="@android:drawable/button_onoff_indicator_off"
+                android:text="Sort by"></Button>
+
+            <RadioGroup
+                android:id="@+id/rgSort"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RadioButton
+                    android:id="@+id/rCountry"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="Country"></RadioButton>
+
+                <RadioButton
+                    android:id="@+id/rSickNumber"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sick number"></RadioButton>
+
+                <RadioButton
+                    android:id="@+id/rZone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Zone"></RadioButton>
+            </RadioGroup>
         </LinearLayout>
 
         <LinearLayout

@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Database</string>
+    <string name="tytul">Książka adresowa</string>
+    <string name="cus_name">Imie</string>
+    <string name="cus_surname">Nazwisko</string>
+    <string name="plec">Płeć</string>
+    <string name="man">Man</string>
+    <string name="woman">Woman</string>
+    <string name="edit">Edit</string>
+    <string name="clear">Clear all</string>
+    <string name="sort">Sortowanie</string>
+    <string name="pName">Po imieniu</string>
+    <string name="pSurname">Po nazwisku</string>
+    <string name="ghostID">Id</string>
+
+
 </resources>

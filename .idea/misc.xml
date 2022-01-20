@@ -35,7 +35,7 @@
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_Animation/src/main/res/xml/ship.xml" value="0.1" />
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_Animation/src/main/res/xml/sky.xml" value="0.1" />
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_Animation/src/main/res/xml/sun.xml" value="0.1" />
-        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_AnimationMovement/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_AnimationMovement/src/main/res/layout/activity_main.xml" value="0.11" />
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_AnimationMovement/src/main/res/layout/activity_screen2.xml" value="0.25" />
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_AnimationMovement/src/main/res/layout/activity_screen3.xml" value="0.2872340425531915" />
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task26_AnimationMovement/src/main/res/layout/activity_screen4.xml" value="0.20052083333333334" />
@@ -49,12 +49,16 @@
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task30_ReadIntent/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task30_ReadIntent/src/main/res/layout/details.xml" value="0.20052083333333334" />
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task31_Preferences/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
-        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task32_SimpleDB/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task32_SimpleDB/src/main/res/layout/activity_main.xml" value="0.335" />
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task33_AppW4/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task34_SimpleDB2/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
-        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task35_Query/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task34_SimpleDB2/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task35_Query/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task36_SQLiteInnerJoin/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
-        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task38_db/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task37_SQLiteTransaction/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task38_db/src/main/res/drawable/ic_add.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task38_db/src/main/res/layout/activity_main.xml" value="0.125" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task38_db/src/main/res/layout/db.xml" value="0.13645833333333332" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task38_db/src/main/res/menu/sort.xml" value="0.20052083333333334" />
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task3_BasicViews/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task4_LayoutFiles/src/main/res/layout-land/myscreen.xml" value="0.1697530864197531" />
         <entry key="..\:/Users/dell/AndroidStudioProjects/Labs_pomi/task4_LayoutFiles/src/main/res/layout-port/myscreen.xml" value="0.20052083333333334" />

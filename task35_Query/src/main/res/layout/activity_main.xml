@@ -70,7 +70,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:hint="input number"
-                android:inputType="number"></EditText>
+                android:inputType="number"
+                android:minHeight="48dp"></EditText>
         </LinearLayout>
 
         <LinearLayout
@@ -139,7 +140,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:inputType="number"></EditText>
+                android:inputType="number"
+                android:minHeight="48dp"
+                tools:ignore="SpeakableTextPresentCheck"></EditText>
         </LinearLayout>
 
         <LinearLayout
