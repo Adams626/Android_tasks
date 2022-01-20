@@ -16,18 +16,11 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <TextView
-            android:id="@+id/tvStat"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/hello"></TextView>
-
         <ListView
-            android:id="@+id/lvMain"
+            android:id="@+id/lvList"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"></ListView>
     </LinearLayout>
-
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
