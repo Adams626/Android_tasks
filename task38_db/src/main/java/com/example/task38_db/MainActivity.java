@@ -130,6 +130,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
     public void onClick(View v) {
 
 
+
         int zaznaczonaPlec = rgGender.getCheckedRadioButtonId();
         rbGender = (RadioButton) findViewById(zaznaczonaPlec);
         String sex = rbGender.getText().toString();
