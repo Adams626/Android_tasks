@@ -1,2 +1,3 @@
 # Android_tasks
-Jest to zestaw aplikacji własnych stworzonych na potrzeby ćwiczeń z Android studio. Zawiera kilka podstawowych funkcji sworzonych za pomocą jezyka Java.
+Jest to zestaw aplikacji napisanych na potrzeby przedmiotu aplikacje mobilne. 
+Są napisane w języku Java i przedstawiają podstawowe możliwości Android Studio.
